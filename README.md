@@ -1,6 +1,6 @@
 # ePeritos
 
-
+Sistema para gestão de perícias judiciais e assistências técnicas, focado em organizar o fluxo de trabalho de peritos.
 
 ## 🚀 Demo
 
@@ -8,7 +8,7 @@ _Link não disponível._
 
 ## 🛠 Tecnologias
 
-_Nenhuma tecnologia informada._
+`GitHub Portfolio IA (gerador)`
 
 ## 📸 Screenshots
 
